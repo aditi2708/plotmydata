@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plotmydata/static/css/main.abd64e84.css",
+    "main.js": "/plotmydata/static/js/main.e8b43a09.js",
+    "index.html": "/plotmydata/index.html",
+    "main.abd64e84.css.map": "/plotmydata/static/css/main.abd64e84.css.map",
+    "main.e8b43a09.js.map": "/plotmydata/static/js/main.e8b43a09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.e8b43a09.js"
+  ]
+}
